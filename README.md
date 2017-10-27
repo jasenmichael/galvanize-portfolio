@@ -28,6 +28,6 @@ http://marsalom.com/
 http://greenbriarschool.org/
 http://annefeeney.com
 http://livingstoncoffee.com/
-http://www.tech512.com/
+
 
 Over the last 10 years I have really dove into things more, but I have learned many bad practices. My short time spent at Galvanize has inspired me. Galvanize is a tool for networking and collaboration.
