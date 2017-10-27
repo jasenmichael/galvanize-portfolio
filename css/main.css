@@ -273,17 +273,17 @@ header.masthead .header-content .header-content-inner p {
 .btn-primary.focus, .btn-primary:focus {
  color: #fff;
  border-color: #a4270d;
- background-color: #eb3812
+ background-color: #383838
 }
 .btn-primary:hover {
  color: #fff;
  border-color: #e13612;
- background-color: #eb3812
+ background-color: #383838
 }
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
  color: #fff;
  border-color: #e13612;
- background-color: #eb3812
+ background-color: #383838
 }
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
  color: #fff;
@@ -311,14 +311,9 @@ header.masthead .header-content .header-content-inner p {
 .btn-xl {
  padding: 15px 30px
 }
-
-.fa-heart .fa-4x .fa {
-  color: #942c18;
-}
-
 .blurb {
  position: relative;
  display: block;
- max-width: 650px;
+ max-width: 800px;
  margin: 0 auto
 }
