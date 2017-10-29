@@ -11,7 +11,7 @@ hr {
  border-color: #942c18
 }
 hr.light {
- border-color: #fff
+ border-color: #a6a4a3
 }
 a {
  color: #942c18;
@@ -34,7 +34,7 @@ p {
  background-color: #942c18!important
 }
 .bg-dark {
- color: #fff;
+ color: #a6a4a3;
  background-color: #222!important
 }
 .text-faded {
@@ -47,21 +47,21 @@ section {
  margin-top: 0
 }
 ::-moz-selection {
- color: #fff;
+ color: #a6a4a3;
  background: #222;
  text-shadow: none
 }
 ::selection {
- color: #fff;
+ color: #a6a4a3;
  background: #222;
  text-shadow: none
 }
 img::selection {
- color: #fff;
+ color: #a6a4a3;
  background: 0 0
 }
 img::-moz-selection {
- color: #fff;
+ color: #a6a4a3;
  background: 0 0
 }
 body {
@@ -69,7 +69,7 @@ body {
 }
 #mainNav {
  border-color: rgba(34, 34, 34, .05);
- background-color: #fff;
+ background-color: #a6a4a3;
  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
  -webkit-transition: all .2s;
  -moz-transition: all .2s;
@@ -115,17 +115,17 @@ body {
    color: rgba(255, 255, 255, .7)
  }
  #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-   color: #fff
+   color: #a6a4a3
  }
  #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
    color: rgba(255, 255, 255, .7)
  }
  #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
-   color: #fff
+   color: #a6a4a3
  }
  #mainNav.navbar-shrink {
    border-color: rgba(34, 34, 34, .05);
-   background-color: #fff
+   background-color: #a6a4a3
  }
  #mainNav.navbar-shrink .navbar-brand {
    font-size: 16px;
@@ -146,7 +146,7 @@ header.masthead {
  width: 100%;
  min-height: auto;
  text-align: center;
- color: #fff;
+ color: #a6a4a3;
  background-image: url(../img/header.jpg);
  background-position: center;
  -webkit-background-size: cover;
@@ -231,8 +231,8 @@ header.masthead .header-content .header-content-inner p {
 }
 .btn-default {
  color: #222;
- border-color: #fff;
- background-color: #fff
+ border-color: #a6a4a3;
+ background-color: #a6a4a3
 }
 .btn-default.focus, .btn-default:focus {
  color: #222;
@@ -258,35 +258,35 @@ header.masthead .header-content .header-content-inner p {
  background-image: none
 }
 .btn-default.disabled.focus, .btn-default.disabled:focus, .btn-default.disabled:hover, .btn-default[disabled].focus, .btn-default[disabled]:focus, .btn-default[disabled]:hover, fieldset[disabled] .btn-default.focus, fieldset[disabled] .btn-default:focus, fieldset[disabled] .btn-default:hover {
- border-color: #fff;
- background-color: #fff
+ border-color: #a6a4a3;
+ background-color: #a6a4a3
 }
 .btn-default .badge {
- color: #fff;
+ color: #a6a4a3;
  background-color: #222
 }
 .btn-primary {
- color: #fff;
+ color: #a6a4a3;
  border-color: #942c18;
  background-color: #942c18
 }
 .btn-primary.focus, .btn-primary:focus {
- color: #fff;
+ color: #a6a4a3;
  border-color: #a4270d;
  background-color: #383838
 }
 .btn-primary:hover {
- color: #fff;
+ color: #a6a4a3;
  border-color: #e13612;
  background-color: #383838
 }
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
- color: #fff;
+ color: #a6a4a3;
  border-color: #e13612;
  background-color: #383838
 }
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
- color: #fff;
+ color: #a6a4a3;
  border-color: #a4270d;
  background-color: #c93110
 }
@@ -299,7 +299,7 @@ header.masthead .header-content .header-content-inner p {
 }
 .btn-primary .badge {
  color: #942c18;
- background-color: #fff
+ background-color: #a6a4a3
 }
 .btn {
  font-weight: 700;
