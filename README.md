@@ -4,6 +4,5 @@ I just finished taking the "Get Prepared for the Web Development Immersive - Jav
 
 This is a project I put together as a part of my portfolio for the Galvanize application process.
 
-[imdb-sample](http://jmh-imdb-sample.surge.sh/)
-[hangman](http://jmh-hangman.surge.sh/)
-[personal site](http://jmh-personal-site.surge.sh/)
+
+here is a working [demo](http://jmh-galvanize-portfolio.surge.sh/)
